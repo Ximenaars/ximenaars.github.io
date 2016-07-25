@@ -90,7 +90,7 @@ function draw() {
   //aumentar diámetro en 1
   //a la var diámetro,asígnale el valor del resultado de ...
   
-  diametro= diametro+1;
+  x= x+1;
 }
 
 //windowResized es ejecutada cada vez que la ventana del navegador
